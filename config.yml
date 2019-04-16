@@ -1,0 +1,11 @@
+dag:
+  dag_id: hello-world
+  schedule_interval: '@once'
+  default_args:
+    owner: airflow
+    start_date: 2019-01-01T00:00:00Z
+
+say_hello:
+  - Sun
+  - Moon
+  - World
