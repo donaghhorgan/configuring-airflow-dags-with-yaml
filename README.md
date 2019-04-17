@@ -1,3 +1,3 @@
-# airflow-yaml-config-dag
+# Configuring Airflow DAGs with YAML
 
-An example Airflow workflow demonstrating how to set default DAG configuration from YAML.
+An example Airflow DAG that demonstrates how to set default configuration from YAML. A complete explanation is available [here](https://donagh.io/configuring-airflow-dags-with-yaml/).
